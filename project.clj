@@ -1,4 +1,4 @@
-(defproject com.tvachon/core.async "0.1.0"
+(defproject com.tvachon/core.async "0.2.0-SNAPSHOT"
   :description "Facilities for async programming and communication in Clojure"
   :url "https://github.com/clojure/core.async"
   :license {:name "Eclipse Public License"
